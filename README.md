@@ -22,7 +22,7 @@ NGINX Reverse Proxy
 iDempiere Application Server
   ↓
 PostgreSQL Database Server
-
+```
 ## Security note
 
 This repository does not include customer data, credentials, private configuration files or production-sensitive information.
