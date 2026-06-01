@@ -27,6 +27,14 @@ PostgreSQL Database Server
 
 This repository does not include customer data, credentials, private configuration files or production-sensitive information.
 
+## Documentation
+
+- [iDempiere Password Policy](docs/security/password-policy.md)
+
+## Security Data
+
+- [iDempiere Password Dictionary](data/security/idempiere-password-blacklist.csv)
+
 ## Author
 
 Ariel Corvalán  
